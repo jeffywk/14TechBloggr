@@ -8,4 +8,4 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 * express_handlebars
 * MySQL2
-* Sequelize
+* Sequelizem
