@@ -1,8 +1,6 @@
 # TechBloggr
 
-AS A developer who writes about tech
-I WANT a CMS-style blog site
-SO THAT I can publish articles, blog posts, and my thoughts and opinions
+The world becomes a better place when people share ideas. In the world of tech, we can make it better by sharing ideas online about new developments, tips and tricks, and teaching eachother. What better place to do that than on a tech blog? This is an app built to share ideas in tech.
 
 ## Tools Used
 
